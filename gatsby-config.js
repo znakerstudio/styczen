@@ -11,7 +11,7 @@ module.exports = {
     siteTitleAlt: `Fotogra Starter Portfolio`,
     siteHeadline: `Fotogra`,
     siteUrl: `https://fotogra.netlify.app/`,
-    siteDescription: `Playful and Colorful One-Page portfolio featuring Parallax effects and animations`,
+    siteDescription: `Strona, aplikacja, witryna, portfolio www, tworzenie stron, budowanie wizerunku`,
     siteLanguage: `en`,
     siteImage: `/banner.jpg`,
     author: `@lekoarts_de`,
